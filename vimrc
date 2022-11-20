@@ -17,6 +17,12 @@ nnoremap <space> za
 " 显示行号
 set number
 
+set smartindent
+set tabstop=4
+set shiftwidth=4
+set expandtab
+set softtabstop=4
+
 " 突出显示当前行
 set cursorline  
 
